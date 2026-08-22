@@ -1,16 +1,58 @@
-## Hi, I'm Anatoliy Kim 👋
+# Hi, I'm Anatoliy Kim 👋
 💻 DevOps Engineer | Cloud | SRE | Platform
 
-🚀 As a dedicated DevOps engineer, I transform complex infrastructure and deployment challenges into scalable, reliable, and efficient solutions. My expertise lies in optimizing CI/CD pipelines, automating routine tasks, and architecting cloud-native environments that drive productivity and minimize downtime. I thrive at the intersection of software development and IT operations, delivering robust systems with speed, security, and performance in mind.
+## 🚀 About Me
 
-🛠️ Tech Stack
-Core technologies: 
-Linux | Kubernetes | Docker | Terraform | AWS | Prometheus | Grafana | ELK |PostgreSQL | MySQL | Kafka | Helm | Bash/Python
+DevOps Engineer with production experience operating Kubernetes at scale — from a **145-node cluster serving 2.5M+ active users** in regulated FinTech, to **national e-government infrastructure (14M+ users, 130M+ authentications)**.
 
-🤝 What I can Do?
-I specialize in automating infrastructure and optimizing software delivery. My expertise lies in designing, building, and overseeing scalable systems. I leverage tools like Terraform, Ansible, Docker, and Kubernetes for this purpose. Additionally, I create efficient CI/CD pipelines and deploy cloud solutions on platforms like AWS, Azure, and Google Cloud. I am adept at facilitating collaboration between development and operations teams to enhance continuous improvement and reliability.
+### What I Deliver
 
-💬 Ask me about DevOps/SRE/Monitoring 
-🌱 I’m currently persuing Certified Kubernetes Administrator (CKA), Terraform Associate, AWS Solutions Architect Associate
+| Metric | Impact |
+|--------|--------|
+| Deployment Errors | **70% reduction** via CI/CD standardization |
+| Post-Deployment Rollbacks | **35% reduction** via automated test gates |
+| Disk Capacity | **15% reclaimed** via MinIO lifecycle optimization |
+| Scale Operated | **145 nodes**, **50+ microservices**, **30+ namespaces** |
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Container Orchestration** | Kubernetes, Helm, Docker, Namespaces |
+| **CI/CD & GitOps** | ArgoCD, GitHub Actions, GitLab CI/CD |
+| **Cloud & IaC** | AWS (EKS, EC2, S3, IAM, Route53), Terraform, Ansible |
+| **Security** | HashiCorp Vault, Kubernetes Secrets, RBAC, IAM |
+| **Observability** | Prometheus, Grafana, VictoriaMetrics, Loki, ELK |
+| **Scripting** | Bash, Python, Go |
+| **Systems** | Linux, Nginx, TCP/IP, DNS, Firewalls, PostgreSQL, MySQL, Kafka |
+
+---
+
+## 💼 Professional Highlights
+
+### **UZINFOCOM** (Jul 2026 – Present)
+- Government-scale e-government infrastructure (14M+ registered users)
+- Integrated HashiCorp Vault into CI/CD pipelines for dynamic secrets
+- Maintained GitOps workflows using ArgoCD
+- Administered Passbolt for 400+ engineers with granular RBAC
+
+### **Alif Uzbekistan** (Oct 2025 – Jul 2026)
+- Operated 145-node Kubernetes cluster for 2.5M+ FinTech users
+- Standardized GitHub Actions CI/CD templates across engineering teams
+- Built observability stack (Prometheus, Grafana, Loki) for 50+ services
+- On-call incident response for production systems
+
+---
+
+## 🎯 Certifications (In Progress)
+
+- [ ] **CKA** — Certified Kubernetes Administrator (KodeKloud)
+- [ ] **CKAD** — Certified Kubernetes Application Developer (KodeKloud)
+- [ ] **Terraform Associate** — HashiCorp
+- [ ] **AWS Solutions Architect Associate** — AWS
+
+---
 
 📫 How to reach me: www.devops.kim
