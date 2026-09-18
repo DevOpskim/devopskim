@@ -36,7 +36,6 @@ DevOps Engineer with production experience operating Kubernetes at scale — fro
 - Government-scale e-government infrastructure (14M+ registered users)
 - Integrated HashiCorp Vault into CI/CD pipelines for dynamic secrets
 - Maintained GitOps workflows using ArgoCD
-- Administered Passbolt for 400+ engineers with granular RBAC
 
 ### **Alif Uzbekistan** (Oct 2025 – Jul 2026)
 - Operated 145-node Kubernetes cluster for 2.5M+ FinTech users
