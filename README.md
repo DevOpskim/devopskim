@@ -1,57 +1,153 @@
 # Hi, I'm Anatoliy Kim 👋
-💻 DevOps Engineer | Cloud | SRE | Platform
 
-## 🚀 About Me
+**DevOps / Platform Engineer | Kubernetes | AWS | Terraform | GitOps | Observability**
 
-DevOps Engineer with production experience operating Kubernetes at scale — from a **145-node cluster serving 2.5M+ active users** in regulated FinTech, to **national e-government infrastructure (14M+ users, 130M+ authentications)**.
+DevOps / Platform Engineer focused on building and operating reliable Kubernetes and cloud infrastructure.
 
-### What I Deliver
+I have production experience operating Kubernetes at scale, including a **145-node production cluster serving 2.5M+ active users** in regulated FinTech, and infrastructure supporting **14M+ registered users** in national e-government services.
 
-| Metric | Impact |
-|--------|--------|
-| Deployment Errors | **70% reduction** via CI/CD standardization |
-| Post-Deployment Rollbacks | **35% reduction** via automated test gates |
-| Disk Capacity | **15% reclaimed** via MinIO lifecycle optimization |
-| Scale Operated | **145 nodes**, **50+ microservices**, **30+ namespaces** |
+Currently focused on **Kubernetes platform engineering, cloud infrastructure, GitOps, observability, security, and SRE practices**, with a long-term direction toward **AI Infrastructure and AI Platform Engineering**.
+
+📍 Relocating to **South Korea — November 2026**
+🇰🇷 **F-4 visa | Authorized to work in South Korea**
+💼 Targeting **DevOps / SRE / Platform Engineering** roles
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Production Experience
 
-| Category | Technologies |
-|----------|--------------|
-| **Container Orchestration** | Kubernetes, Helm, Docker, Namespaces |
-| **CI/CD & GitOps** | ArgoCD, GitHub Actions, GitLab CI/CD |
-| **Cloud & IaC** | AWS (EKS, EC2, S3, IAM, Route53), Terraform, Ansible |
-| **Security** | HashiCorp Vault, Kubernetes Secrets, RBAC, IAM |
-| **Observability** | Prometheus, Grafana, VictoriaMetrics, Loki, ELK |
-| **Scripting** | Bash, Python, Go |
-| **Systems** | Linux, Nginx, TCP/IP, DNS, Firewalls, PostgreSQL, MySQL, Kafka |
+### Kubernetes & Platform Engineering
+
+* Operated a **145-node production Kubernetes cluster** supporting **2.5M+ active users** in regulated FinTech
+* Managed **50+ microservices across 30+ namespaces** in development, staging, and production environments
+* Operated Kubernetes infrastructure supporting national-scale public-sector systems
+* Migrated legacy applications from bare-metal / VM infrastructure to Kubernetes
+* Worked with RBAC, workload scheduling, resource management, persistent storage, networking and cluster operations
+
+### CI/CD & GitOps
+
+* Standardized reusable **GitHub Actions** CI/CD workflows across engineering teams
+* Operated **GitLab CI/CD + Argo CD** GitOps delivery workflows
+* Implemented automated test gates that reduced post-deployment rollbacks by **35%**
+* Reduced deployment errors by **70%** through CI/CD standardization
+* Automated application promotion and deployment workflows across environments
+
+### Cloud & Infrastructure as Code
+
+* AWS: **EKS, EC2, IAM, S3, Route 53**
+* Infrastructure as Code with **Terraform**
+* Kubernetes and cloud infrastructure provisioning and operational automation
+* Linux infrastructure, Nginx, TLS, load balancing and network configuration
+
+### Observability & SRE
+
+* Operated observability platforms using **Prometheus, Grafana, Loki and VictoriaMetrics**
+* Monitoring and troubleshooting across Kubernetes, databases and application workloads
+* Production on-call and incident response
+* Root-cause analysis and blameless postmortems
+* Runbooks and troubleshooting decision trees for production services
+* Reliability improvement through automation and preventive remediation
+
+### Security
+
+* **HashiCorp Vault** integration with CI/CD and Kubernetes workloads
+* Kubernetes **RBAC** and access-control management
+* Secrets management and identity-based access
+* Linux and network security hardening
+* Firewall and network segmentation
 
 ---
 
-## 💼 Professional Highlights
+## 📊 Selected Impact
 
-### **UZINFOCOM** (Jul 2026 – Present)
-- Government-scale e-government infrastructure (14M+ registered users)
-- Integrated HashiCorp Vault into CI/CD pipelines for dynamic secrets
-- Maintained GitOps workflows using ArgoCD
-
-### **Alif Uzbekistan** (Oct 2025 – Jul 2026)
-- Operated 145-node Kubernetes cluster for 2.5M+ FinTech users
-- Standardized GitHub Actions CI/CD templates across engineering teams
-- Built observability stack (Prometheus, Grafana, Loki) for 50+ services
-- On-call incident response for production systems
-
----
-
-## 🎯 Certifications (In Progress)
-
-- [ ] **CKA** — Certified Kubernetes Administrator (KodeKloud)
-- [ ] **CKAD** — Certified Kubernetes Application Developer (KodeKloud)
-- [ ] **Terraform Associate** — HashiCorp
-- [ ] **AWS Solutions Architect Associate** — AWS
+| Area                         |                    Result |
+| ---------------------------- | ------------------------: |
+| Production Kubernetes        |             **145 nodes** |
+| Active FinTech users         |                 **2.5M+** |
+| Microservices operated       |                   **50+** |
+| Kubernetes namespaces        |                   **30+** |
+| Deployment errors            |         **70% reduction** |
+| Post-deployment rollbacks    |         **35% reduction** |
+| Storage capacity reclaimed   |                   **15%** |
+| E-government users supported | **14M+ registered users** |
 
 ---
 
-📫 How to reach me: www.devops.kim
+## 🛠️ Technology
+
+### Kubernetes & Platform
+
+`Kubernetes` `Helm` `Docker` `Argo CD` `RBAC` `NetworkPolicy` `Kustomize`
+
+### Cloud & IaC
+
+`AWS` `EKS` `EC2` `S3` `IAM` `Route 53` `Terraform`
+
+### CI/CD & GitOps
+
+`GitHub Actions` `GitLab CI/CD` `Argo CD` `GitOps`
+
+### Observability
+
+`Prometheus` `Grafana` `Loki` `VictoriaMetrics` `OpenTelemetry`
+
+### Security
+
+`HashiCorp Vault` `Kubernetes RBAC` `IAM` `Secrets Management` `TLS`
+
+### Systems & Networking
+
+`Linux` `Bash` `Python` `Go` `Nginx` `TCP/IP` `DNS` `Firewalls` `PostgreSQL` `MySQL` `MongoDB`
+
+---
+
+## 🏗️ Current Engineering Focus
+
+I'm currently deepening my Platform Engineering capabilities around:
+
+* **Kubernetes administration & CKA**
+* **Istio / Service Mesh**
+* **OpenTelemetry & distributed tracing**
+* **Cilium & Kubernetes networking**
+* **SRE / SLI / SLO / Error Budgets**
+* **Progressive delivery & canary deployments**
+* **Kubernetes security & policy**
+* **Internal Developer Platforms**
+
+Long term, my engineering direction is:
+
+**DevOps → Platform / SRE → AI Infrastructure → AI Platform Engineering → AI Platform Architecture**
+
+---
+
+## 📚 Engineering Approach
+
+I prefer learning and documenting infrastructure through practical implementation:
+
+**Learn → Build → Troubleshoot → Measure → Document → Automate**
+
+My repositories contain infrastructure labs, Kubernetes configurations, automation, troubleshooting notes, and platform engineering experiments.
+
+---
+
+## 🎯 Certifications
+
+* **CKA — Certified Kubernetes Administrator** *(in progress)*
+* Kubernetes, Terraform and AWS — hands-on production experience and ongoing study
+
+---
+
+## 📫 Connect
+
+* **LinkedIn:** [linkedin.com/in/anatoliyvkim](https://www.linkedin.com/in/anatoliyvkim)
+* **GitHub:** [github.com/DevOpskim](https://github.com/DevOpskim)
+* **Website:** `https://infra.kim`
+
+---
+
+### Languages
+
+**English:** Full Professional
+**Russian:** Native
+**Korean:** Limited Working
+**Uzbek:** Limited Working
